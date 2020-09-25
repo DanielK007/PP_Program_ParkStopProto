@@ -1,0 +1,10 @@
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\bin\Debug\ParkingStop-Prototype.exe.config
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\bin\Debug\ParkingStop-Prototype.exe
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\bin\Debug\ParkingStop-Prototype.pdb
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\obj\Debug\ParkingStop-Prototype.csprojAssemblyReference.cache
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\obj\Debug\ParkingStop_Prototype.MainPage.resources
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\obj\Debug\ParkingStop_Prototype.Properties.Resources.resources
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\obj\Debug\ParkingStop-Prototype.csproj.GenerateResource.cache
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\obj\Debug\ParkingStop-Prototype.csproj.CoreCompileInputs.cache
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\obj\Debug\ParkingStop-Prototype.exe
+C:\Users\DRK\OneDrive\DRK\UniBrasil\2 Semester\Pratica Profissional - Programação\App\ParkingStop-Prototype\ParkingStop-Prototype\obj\Debug\ParkingStop-Prototype.pdb
